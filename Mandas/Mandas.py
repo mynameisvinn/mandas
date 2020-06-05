@@ -7,6 +7,9 @@ class Matrix():
         
     def __repr__(self):
         return str(self.matrix)
+    
+    def __len__(self):
+        return len(self.matrix) ** 2
         
     def create_labels(self, matrix):
         """create a dictionary where k = user label, v = corresponding list position.
