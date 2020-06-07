@@ -1,8 +1,8 @@
-# mandas
+# Mandas
 pandas for adjacency matrices
 
 ## why?
-it is shouldnt be this difficult to delete vertices from adjacency matrices.
+pandas made it easy to manipulate dataframes. mandas makes it easy to manipulate adjacency graphs.
 
 ## example
 ```python
